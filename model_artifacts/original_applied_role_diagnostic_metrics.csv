@@ -1,0 +1,5 @@
+Model,Accuracy,Macro_Precision,Macro_Recall,Macro_F1
+TF-IDF Logistic Regression,0.145,0.1522,0.145,0.1438
+SGD Log-Loss,0.1375,0.1292,0.1324,0.1054
+Dummy majority baseline,0.135,0.0169,0.125,0.0297
+Random Forest,0.1275,0.1278,0.1259,0.1264

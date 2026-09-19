@@ -1,0 +1,121 @@
+[
+  {
+    "role": "Backend Developer",
+    "top_skills": [
+      "Node.js",
+      "MongoDB",
+      "Java",
+      "Spring",
+      "PHP",
+      "Laravel"
+    ],
+    "common_education": [
+      "BCA",
+      "Diploma in CS",
+      "B.Sc in IT"
+    ],
+    "median_experience": 8.0,
+    "role_profile_text": "job role: Backend Developer. important skills: Node.js, MongoDB, Java, Spring, PHP, Laravel. common education: BCA, Diploma in CS, B.Sc in IT. typical experience years: 8.0."
+  },
+  {
+    "role": "Data Analyst",
+    "top_skills": [
+      "R",
+      "Statistics"
+    ],
+    "common_education": [
+      "MCA",
+      "M.Tech",
+      "BCA"
+    ],
+    "median_experience": 7.0,
+    "role_profile_text": "job role: Data Analyst. important skills: R, Statistics. common education: MCA, M.Tech, BCA. typical experience years: 7.0."
+  },
+  {
+    "role": "Data Scientist",
+    "top_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning"
+    ],
+    "common_education": [
+      "MBA",
+      "Diploma in CS",
+      "B.Sc in IT"
+    ],
+    "median_experience": 8.0,
+    "role_profile_text": "job role: Data Scientist. important skills: Python, SQL, Machine Learning. common education: MBA, Diploma in CS, B.Sc in IT. typical experience years: 8.0."
+  },
+  {
+    "role": "DevOps Engineer",
+    "top_skills": [
+      "AWS",
+      "DevOps"
+    ],
+    "common_education": [
+      "M.Tech",
+      "B.Com",
+      "MBA"
+    ],
+    "median_experience": 8.0,
+    "role_profile_text": "job role: DevOps Engineer. important skills: AWS, DevOps. common education: M.Tech, B.Com, MBA. typical experience years: 8.0."
+  },
+  {
+    "role": "Embedded Engineer",
+    "top_skills": [
+      "C++",
+      "IoT"
+    ],
+    "common_education": [
+      "BCA",
+      "B.Tech in CS",
+      "MCA"
+    ],
+    "median_experience": 7.0,
+    "role_profile_text": "job role: Embedded Engineer. important skills: C++, IoT. common education: BCA, B.Tech in CS, MCA. typical experience years: 7.0."
+  },
+  {
+    "role": "Frontend Developer",
+    "top_skills": [
+      "Angular",
+      "TypeScript",
+      "JavaScript",
+      "React"
+    ],
+    "common_education": [
+      "B.Tech in CS",
+      "Diploma in CS",
+      "B.Sc in IT"
+    ],
+    "median_experience": 7.0,
+    "role_profile_text": "job role: Frontend Developer. important skills: Angular, TypeScript, JavaScript, React. common education: B.Tech in CS, Diploma in CS, B.Sc in IT. typical experience years: 7.0."
+  },
+  {
+    "role": "Product Manager",
+    "top_skills": [
+      "Excel",
+      "Admin"
+    ],
+    "common_education": [
+      "Diploma in CS",
+      "B.Tech in CS",
+      "M.Tech"
+    ],
+    "median_experience": 11.0,
+    "role_profile_text": "job role: Product Manager. important skills: Excel, Admin. common education: Diploma in CS, B.Tech in CS, M.Tech. typical experience years: 11.0."
+  },
+  {
+    "role": "Virtual Assistant",
+    "top_skills": [
+      "Excel",
+      "Admin"
+    ],
+    "common_education": [
+      "BCA",
+      "B.Sc in IT",
+      "M.Tech"
+    ],
+    "median_experience": 4.0,
+    "role_profile_text": "job role: Virtual Assistant. important skills: Excel, Admin. common education: BCA, B.Sc in IT, M.Tech. typical experience years: 4.0."
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "weights": {
+    "model_probability": 0.3,
+    "skill_fit": 0.35,
+    "semantic_similarity": 0.2,
+    "experience_fit": 0.1,
+    "education_fit": 0.05,
+    "feedback_adjustment": 1.0
+  },
+  "top_k": 5,
+  "dataset_name": "AI Resume Matcher Dataset - 2000 Samples",
+  "dataset_link": "https://www.kaggle.com/datasets/hmnshudhmn24/ai-resume-matcher-dataset-2000-samples",
+  "dataset_license": "CC0: Public Domain",
+  "ethics_scope": "Secondary data only; no human participants; no live hiring decisions."
+}

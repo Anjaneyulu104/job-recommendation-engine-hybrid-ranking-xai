@@ -1,0 +1,4 @@
+Model,Target,Accuracy,Macro_Precision,Macro_Recall,Macro_F1
+Logistic Regression,Competency_Aligned_Job_Role,1.0,1.0,1.0,1.0
+SGD Log-Loss,Competency_Aligned_Job_Role,0.995,0.9891,0.9853,0.9865
+Dummy majority baseline,Competency_Aligned_Job_Role,0.2925,0.0366,0.125,0.0566

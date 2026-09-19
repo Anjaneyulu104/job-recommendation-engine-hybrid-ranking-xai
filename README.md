@@ -128,23 +128,7 @@ Open the final project notebook, place `large_resume_dataset.csv` in the working
 
 The notebook uses **random seed 42** and creates a local `job_recommendation_final_outputs/` folder outside Kaggle.
 
-### Research outputs
 
-Depending on notebook execution, the output folder contains CSV tables, figures and portable files such as:
-
-```text
-job_recommendation_final_outputs/
-├── tables/
-│   ├── classification_validation_metrics.csv
-│   ├── ranking_method_comparison.csv
-│   ├── validation_weight_selection.csv
-│   ├── final_results_summary.csv
-│   └── methodological_integrity_checks.csv
-├── figures/
-├── project_metadata.json
-├── role_profiles_portable.csv
-└── skill_vocabulary.json
-```
 
 The notebook also creates a ZIP of generated research outputs. Exact contents depend on which cells were executed. JSON/CSV exports document the experiment; they are **not substitutes for a fitted classifier and TF-IDF vectorizer** if creating a separate inference application.
 
